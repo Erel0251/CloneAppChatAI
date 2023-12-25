@@ -28,6 +28,10 @@
 .pub/
 build/
 
+# Env related
+.[Ee]nv
+env.g.dart
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
